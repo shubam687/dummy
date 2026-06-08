@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'reacting';
 
 const DummyComponent = () => {
   return (
