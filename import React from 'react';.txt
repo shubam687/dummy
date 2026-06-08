@@ -10,3 +10,5 @@ const DummyComponent = () => {
 };
 
 export default DummyComponent;
+
+Testing of git
